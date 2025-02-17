@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "authorId": "1",
+    "postContent": "Exploring advanced Java concepts: Streams and Lambdas."
+  },
+  {
+    "id": "2",
+    "authorId": "2",
+    "postContent": "Understanding the importance of UI/UX design in web development."
+  },
+  {
+    "id": "3",
+    "authorId": "1",
+    "postContent": "Building scalable applications with microservices architecture."
+  },
+  {
+    "id": "4",
+    "authorId": "3",
+    "postContent": "A beginner's guide to Python programming: Syntax and basic functions."
+  },
+  {
+    "id": "5",
+    "authorId": "4",
+    "postContent": "Introduction to cloud computing and AWS services."
+  },
+  {
+    "id": "6",
+    "authorId": "5",
+    "postContent": "JavaScript ES6 features: What you need to know."
+  },
+  {
+    "id": "7",
+    "authorId": "6",
+    "postContent": "Best practices for secure application development in Node.js."
+  },
+  {
+    "id": "8",
+    "authorId": "7",
+    "postContent": "Understanding the basics of data structures and algorithms."
+  },
+  {
+    "id": "9",
+    "authorId": "8",
+    "postContent": "Exploring Artificial Intelligence: What is AI and how it works?"
+  },
+  {
+    "id": "10",
+    "authorId": "9",
+    "postContent": "Building RESTful APIs with Spring Boot: A complete guide."
+  },
+  {
+    "id": "11",
+    "authorId": "10",
+    "postContent": "How to use Git and GitHub for version control in development."
+  },
+  {
+    "id": "12",
+    "authorId": "2",
+    "postContent": "The role of database management systems in modern web applications."
+  },
+  {
+    "id": "13",
+    "authorId": "6",
+    "postContent": "What are web APIs and how do they work? A comprehensive tutorial."
+  },
+  {
+    "id": "14",
+    "authorId": "4",
+    "postContent": "Getting started with Docker: Benefits and basics for developers."
+  },
+  {
+    "id": "15",
+    "authorId": "7",
+    "postContent": "Full-stack development overview: Tools and technologies."
+  },
+  {
+    "id": "16",
+    "authorId": "5",
+    "postContent": "Building responsive web pages with CSS Grid and Flexbox."
+  },
+  {
+    "id": "17",
+    "authorId": "3",
+    "postContent": "Tips for effective debugging in Python: Tools and methods."
+  },
+  {
+    "id": "18",
+    "authorId": "8",
+    "postContent": "Introduction to machine learning: Algorithms and applications."
+  },
+  {
+    "id": "19",
+    "authorId": "1",
+    "postContent": "Exploring the new features in Java 15 and beyond."
+  },
+  {
+    "id": "20",
+    "authorId": "2",
+    "postContent": "An overview of front-end frameworks: React, Angular, and Vue."
+  }
+]
