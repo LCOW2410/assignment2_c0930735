@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "firstName": "Ananya",
+    "lastName": "Gupta",
+    "age": 29,
+    "gender": "Female"
+  },
+  {
+    "id": "2",
+    "firstName": "Rajesh",
+    "lastName": "Sharma",
+    "age": 35,
+    "gender": "Male"
+  },
+  {
+    "id": "3",
+    "firstName": "Priya",
+    "lastName": "Kumari",
+    "age": 22,
+    "gender": "Female"
+  },
+  {
+    "id": "4",
+    "firstName": "Amit",
+    "lastName": "Verma",
+    "age": 40,
+    "gender": "Male"
+  },
+  {
+    "id": "5",
+    "firstName": "Nisha",
+    "lastName": "Patel",
+    "age": 31,
+    "gender": "Female"
+  },
+  {
+    "id": "6",
+    "firstName": "Vikram",
+    "lastName": "Reddy",
+    "age": 28,
+    "gender": "Male"
+  },
+  {
+    "id": "7",
+    "firstName": "Ravi",
+    "lastName": "Mehta",
+    "age": 33,
+    "gender": "Male"
+  },
+  {
+    "id": "8",
+    "firstName": "Neha",
+    "lastName": "Singh",
+    "age": 26,
+    "gender": "Female"
+  },
+  {
+    "id": "9",
+    "firstName": "Siddharth",
+    "lastName": "Joshi",
+    "age": 38,
+    "gender": "Male"
+  },
+  {
+    "id": "10",
+    "firstName": "Tanya",
+    "lastName": "Desai",
+    "age": 27,
+    "gender": "Female"
+  }
+]
